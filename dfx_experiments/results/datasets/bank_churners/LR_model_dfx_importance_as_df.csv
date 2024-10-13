@@ -1,0 +1,24 @@
+feature_name,dfx_feature_importance
+Total_Relationship_Count,0.0028618369072477387
+Contacts_Count_12_mon,0.0024388385107942737
+Avg_Utilization_Ratio,0.002195206476107216
+Education_Level_Unknown,0.0012702748366258969
+Card_Category_Gold,0.0012535753590289943
+Income_Category_Unknown,0.0011131648903761593
+Education_Level_Graduate,0.0010848448995210021
+Gender_M,0.0007742041981425799
+Marital_Status_Married,0.000716349047875746
+Education_Level_Uneducated,0.0007033740274380622
+Card_Category_Silver,0.0006110903692498259
+Dependent_count,0.0005224648024520532
+Education_Level_Doctorate,0.0005175692707545166
+Total_Trans_Amt,0.0004393827856557375
+Education_Level_Post-Graduate,0.00043016120499263596
+Marital_Status_Unknown,0.00035461895158851405
+Card_Category_Platinum,0.00030158234239833386
+Marital_Status_Single,0.000290824957821323
+Months_Inactive_12_mon,0.0002661182714603201
+Income_Category_$80K - $120K,0.0002621604326669021
+Income_Category_$60K - $80K,0.0002618570008122867
+Education_Level_High School,5.4574270646997126e-05
+Income_Category_$40K - $60K,0.0

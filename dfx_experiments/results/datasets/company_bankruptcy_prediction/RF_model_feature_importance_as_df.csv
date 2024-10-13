@@ -1,0 +1,52 @@
+feature_name,model_feature_importance
+ Total debt/Total net worth,0.056006579310226075
+ Equity to Liability,0.05391044137682202
+ Total income/Total expense,0.04517076128032274
+ Retained Earnings to Total Assets,0.03768789518987634
+ Interest Expense Ratio,0.031396042273512725
+ Operating profit per person,0.030803960504044263
+ Interest Coverage Ratio (Interest expense to EBIT),0.029001074557286004
+ Degree of Financial Leverage (DFL),0.028750748850796762
+ Total expense/Assets,0.027891752542150212
+ Interest-bearing debt interest rate,0.02670366817425426
+ Cash/Current Liability,0.026408471148523134
+ Total Asset Return Growth Rate Ratio,0.026235972949414176
+ Inventory/Working Capital,0.024492008758178155
+ Quick Ratio,0.022520527736018363
+ Cash/Total Assets,0.021919877531239376
+ Accounts Receivable Turnover,0.02119765805915259
+ No-credit Interval,0.020355148233358995
+ Allocation rate per person,0.01951259199170587
+ Operating Expense Rate,0.01877259357374574
+ Fixed Assets Turnover Frequency,0.01796595496471001
+ Inventory Turnover Rate (times),0.017358219055937825
+ Current Ratio,0.01723723167434043
+ Current Liability to Current Assets,0.016956783074151396
+ Fixed Assets to Assets,0.016955842460586835
+ Quick Assets/Total Assets,0.016705414530832033
+ Current Asset Turnover Rate,0.016410202379223804
+ Net Worth Turnover Rate (times),0.01639642890369783
+ Continuous Net Profit Growth Rate,0.01600372243705266
+ Total Asset Growth Rate,0.01596463681666477
+ Total assets to GNP price,0.01579937854756751
+ Long-term fund suitability ratio (A),0.015752909686083373
+ Average Collection Days,0.015697287802818108
+ Long-term Liability to Current Assets,0.014831027073788616
+ Realized Sales Gross Profit Growth Rate,0.01482758558834406
+ Cash Reinvestment %,0.014649153690506933
+ Cash Flow to Equity,0.014210545875105625
+ Cash Turnover Rate,0.014184811564384173
+ Inventory/Current Liability,0.013631164280813889
+ Quick Asset Turnover Rate,0.013340316132468869
+ CFO to Assets,0.013321657118727905
+ Total Asset Turnover,0.012952816541208148
+ Cash Flow to Liability,0.012785710314429115
+ Contingent liabilities/Net worth,0.012702042723056577
+ Cash flow rate,0.012349801322325849
+ Research and development expense rate,0.012168706156119893
+ Cash Flow to Total Assets,0.011531286210656655
+ Operating Funds to Liability,0.011490122118714094
+ Cash Flow Per Share,0.010835881835140086
+ Tax rate (A),0.006030867156803266
+ Liability-Assets Flag,0.00021471792311198546
+ Net Income Flag,0.0

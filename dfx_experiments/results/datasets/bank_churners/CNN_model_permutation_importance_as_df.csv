@@ -1,0 +1,24 @@
+feature_name,permutation_feature_importance
+Dependent_count,-1
+Education_Level_Unknown,-1
+Card_Category_Platinum,-1
+Card_Category_Gold,-1
+Income_Category_Unknown,-1
+Income_Category_$80K - $120K,-1
+Income_Category_$60K - $80K,-1
+Income_Category_$40K - $60K,-1
+Marital_Status_Unknown,-1
+Marital_Status_Single,-1
+Marital_Status_Married,-1
+Education_Level_Uneducated,-1
+Total_Relationship_Count,-1
+Education_Level_Post-Graduate,-1
+Education_Level_High School,-1
+Education_Level_Graduate,-1
+Education_Level_Doctorate,-1
+Gender_M,-1
+Avg_Utilization_Ratio,-1
+Total_Trans_Amt,-1
+Contacts_Count_12_mon,-1
+Months_Inactive_12_mon,-1
+Card_Category_Silver,-1

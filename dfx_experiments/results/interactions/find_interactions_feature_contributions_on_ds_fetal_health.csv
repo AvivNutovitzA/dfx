@@ -1,0 +1,17 @@
+,feature_name,dfx_feature_importance
+13,histogram_mode,0.007459912856790492
+8,mean_value_of_short_term_variability,0.007455814237260113
+9,percentage_of_time_with_abnormal_long_term_variability,0.007453158234646741
+2,fetal_movement,0.007084054335291059
+1,accelerations,0.006465644914765423
+6,prolongued_decelerations,0.003541118395082422
+7,abnormal_short_term_variability,0.0035409879546623754
+10,mean_value_of_long_term_variability,0.0027811933005772926
+3,uterine_contractions,0.0024126847125512706
+0,baseline value,0.0018513592385356588
+5,severe_decelerations,0.0013693170235618175
+14,histogram_variance,0.0009399188925917338
+4,light_decelerations,0.0003741535560698143
+12,histogram_number_of_zeroes,0.0003689266920909923
+15,histogram_tendency,0.0003689131023299848
+11,histogram_number_of_peaks,0.0

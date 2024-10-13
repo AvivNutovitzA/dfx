@@ -1,0 +1,94 @@
+,feature_name,dfx_feature_importance
+33,Total income/Total expense,0.007268868837585087
+14,Total debt/Total net worth,0.007248365678941125
+3,Interest-bearing debt interest rate,0.0071969890487463455
+26,Cash/Total Assets,0.0038101487162793247
+24,Allocation rate per person,0.003801888849003779
+23,Operating profit per person,0.003773489594814439
+47,Degree of Financial Leverage (DFL),0.0030450316049587234
+92,Current Liability to Current Assets_|_Interest Coverage Ratio (Interest expense to EBIT),0.0030421791606381385
+43,Current Liability to Current Assets,0.002080182177596992
+19,Average Collection Days,0.0020015678104784696
+16,Contingent liabilities/Net worth,0.0019171985282974294
+34,Total expense/Assets,0.0018108019413949235
+64,Total Asset Return Growth Rate Ratio_|_Operating Funds to Liability,0.0016529995774113696
+45,Total assets to GNP price,0.0015054105468191323
+27,Cash/Current Liability,0.0013617813749716397
+31,Long-term Liability to Current Assets,0.0013606368082022524
+32,Retained Earnings to Total Assets,0.0013108568224882784
+38,Fixed Assets to Assets,0.0011078483279272835
+39,Cash Flow to Total Assets,0.0010011147505863938
+0,Operating Expense Rate,0.0009669446838993424
+80,Average Collection Days_|_Operating Funds to Liability,0.0009540846958128767
+44,Liability-Assets Flag,0.00093337973434061
+49,Net Income Flag,0.0008434833780921133
+5,Cash Flow Per Share,0.0008207588767056382
+30,Inventory/Current Liability,0.0008196627057909287
+37,Cash Turnover Rate,0.0007778413215032464
+42,Cash Flow to Equity,0.0007752872840756221
+6,Realized Sales Gross Profit Growth Rate,0.0007516087185763906
+17,Total Asset Turnover,0.0007512281300028897
+21,Fixed Assets Turnover Frequency,0.0007340992307803227
+13,Interest Expense Ratio,0.0007326097339553463
+20,Inventory Turnover Rate (times),0.0006933688290024732
+9,Total Asset Return Growth Rate Ratio,0.0005994142113455446
+15,Long-term fund suitability ratio (A),0.0005897957832999852
+79,Accounts Receivable Turnover_|_Cash/Total Assets,0.0005636057285438769
+78,Accounts Receivable Turnover_|_Allocation rate per person,0.0005617632769288213
+73,Long-term fund suitability ratio (A)_|_Quick Asset Turnover Rate,0.0005588762651699381
+77,Accounts Receivable Turnover_|_Operating profit per person,0.0005576028577284995
+74,Long-term fund suitability ratio (A)_|_Equity to Liability,0.000557249370203061
+36,Quick Asset Turnover Rate,0.00044128093211621543
+50,Equity to Liability,0.0004408121060822722
+81,Average Collection Days_|_Cash Flow to Liability,0.0004383883226957027
+62,Continuous Net Profit Growth Rate_|_Average Collection Days,0.00042995858397156076
+91,Inventory/Current Liability_|_Cash Flow to Total Assets,0.0004106755640351205
+59,Cash Flow Per Share_|_Cash Flow to Total Assets,0.00041007617890161146
+2,Cash flow rate,0.000401396799828163
+61,Continuous Net Profit Growth Rate_|_Cash Reinvestment %,0.0003681937831150682
+70,Cash Reinvestment %_|_Cash Flow to Liability,0.00036807357907779625
+4,Tax rate (A),0.00035237639692663804
+82,Inventory Turnover Rate (times)_|_Net Income Flag,0.0002883902841109053
+58,Cash Flow Per Share_|_Total income/Total expense,0.00028687709892681216
+72,Total debt/Total net worth_|_Inventory/Current Liability,0.00027845331654670596
+18,Accounts Receivable Turnover,0.00024256827344922336
+57,Cash Flow Per Share_|_Total debt/Total net worth,0.00024251402521505784
+90,Inventory/Current Liability_|_Total income/Total expense,0.00020741761066259934
+66,Cash Reinvestment %_|_Allocation rate per person,0.00019304397994372426
+67,Cash Reinvestment %_|_Cash/Total Assets,0.00019029840375357166
+65,Cash Reinvestment %_|_Operating profit per person,0.00019003162245378002
+87,Allocation rate per person_|_No-credit Interval,0.00018950892167954778
+28,Operating Funds to Liability,0.00018121415042847435
+56,Interest-bearing debt interest rate_|_Inventory/Current Liability,0.00017897995768062017
+88,Quick Assets/Total Assets_|_Cash/Total Assets,0.00017166435975199675
+86,Allocation rate per person_|_Quick Assets/Total Assets,0.00016896351144951054
+55,Interest-bearing debt interest rate_|_Cash Flow Per Share,0.00015966049509015594
+89,Cash/Total Assets_|_No-credit Interval,0.00012813272475564592
+85,Operating profit per person_|_No-credit Interval,0.00012695723807173995
+84,Operating profit per person_|_Quick Assets/Total Assets,0.00010461544223326016
+48,Interest Coverage Ratio (Interest expense to EBIT),8.148752145111486e-05
+69,Cash Reinvestment %_|_Long-term Liability to Current Assets,6.100301407477231e-05
+71,Current Ratio_|_Net Worth Turnover Rate (times),6.032375430779595e-05
+68,Cash Reinvestment %_|_Cash/Current Liability,5.2752193053623075e-05
+63,Total Asset Growth Rate_|_Net Worth Turnover Rate (times),4.104195938191148e-05
+83,Net Worth Turnover Rate (times)_|_CFO to Assets,2.9623458864926176e-05
+7,Continuous Net Profit Growth Rate,1.656283917880347e-05
+40,Cash Flow to Liability,1.6559904253663198e-05
+60,Realized Sales Gross Profit Growth Rate_|_Total assets to GNP price,4.071940779720997e-06
+75,Contingent liabilities/Net worth_|_Liability-Assets Flag,1.5206313910920644e-06
+51,Research and development expense rate_|_Total Asset Growth Rate,1.0008789635124878e-06
+76,Total Asset Turnover_|_Total assets to GNP price,3.1969001403317926e-07
+52,Research and development expense rate_|_Current Ratio,8.276499016247328e-08
+53,Research and development expense rate_|_CFO to Assets,5.411850661406778e-09
+22,Net Worth Turnover Rate (times),0.0
+25,Quick Assets/Total Assets,0.0
+54,Cash flow rate_|_Inventory Turnover Rate (times),0.0
+29,Inventory/Working Capital,0.0
+1,Research and development expense rate,0.0
+41,CFO to Assets,0.0
+12,Quick Ratio,0.0
+11,Current Ratio,0.0
+10,Cash Reinvestment %,0.0
+35,Current Asset Turnover Rate,0.0
+8,Total Asset Growth Rate,0.0
+46,No-credit Interval,0.0

@@ -1,0 +1,10 @@
+feature_name,permutation_feature_importance
+CreditScore,-1
+Gender,-1
+Age,-1
+Tenure,-1
+Balance,-1
+NumOfProducts,-1
+HasCrCard,-1
+IsActiveMember,-1
+EstimatedSalary,-1

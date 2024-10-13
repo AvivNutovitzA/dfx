@@ -1,0 +1,15 @@
+feature_name,model_feature_importance
+Number of sexual partners,-1
+Num of pregnancies,-1
+Smokes,-1
+Smokes (years),-1
+Smokes (packs/year),-1
+Hormonal Contraceptives,-1
+Hormonal Contraceptives (years),-1
+IUD,-1
+IUD (years),-1
+Dx:CIN,-1
+Dx:HPV,-1
+Hinselmann,-1
+Schiller,-1
+Citology,-1

@@ -1,0 +1,78 @@
+,feature_name,dfx_feature_importance
+4,Total_Trans_Amt,0.008725951977300061
+1,Total_Relationship_Count,0.005398608665121217
+26,Dependent_count_|_Marital_Status_Single,0.003940766603367366
+71,Marital_Status_Single_|_Card_Category_Gold,0.003085576668609464
+5,Avg_Utilization_Ratio,0.0028039548017810014
+6,Gender_M,0.002791995718487846
+8,Education_Level_Graduate,0.0020962144137134766
+7,Education_Level_Doctorate,0.001993280069848547
+27,Total_Relationship_Count_|_Total_Trans_Amt,0.0017755303494185015
+3,Contacts_Count_12_mon,0.0017256393161215206
+9,Education_Level_High School,0.0017224784704647522
+57,Education_Level_Post-Graduate_|_Education_Level_Unknown,0.0017030531636530305
+45,Avg_Utilization_Ratio_|_Gender_M,0.0014796653449950826
+62,Education_Level_Uneducated_|_Marital_Status_Single,0.0014733228969539642
+16,Income_Category_$40K - $60K,0.001245953881554494
+58,Education_Level_Post-Graduate_|_Marital_Status_Unknown,0.0012168441409018667
+47,Avg_Utilization_Ratio_|_Card_Category_Gold,0.0012082267769844154
+34,Months_Inactive_12_mon_|_Total_Trans_Amt,0.0011447478830052215
+70,Marital_Status_Single_|_Income_Category_Unknown,0.001053057095713795
+22,Card_Category_Silver,0.0010270886247618729
+46,Avg_Utilization_Ratio_|_Education_Level_Doctorate,0.001022732168248624
+74,Income_Category_$60K - $80K_|_Card_Category_Silver,0.0009307644892664909
+64,Education_Level_Unknown_|_Income_Category_$80K - $120K,0.0008996521482662493
+13,Marital_Status_Married,0.0007569759891577524
+17,Income_Category_$60K - $80K,0.0005548680293747877
+43,Total_Trans_Amt_|_Gender_M,0.0005538326227012009
+18,Income_Category_$80K - $120K,0.00045996433794638755
+44,Total_Trans_Amt_|_Education_Level_Doctorate,0.00041981773998366946
+72,Marital_Status_Unknown_|_Income_Category_$80K - $120K,0.00035904494878580837
+21,Card_Category_Platinum,0.00035745338066879367
+50,Education_Level_Graduate_|_Income_Category_$80K - $120K,0.0003563101729584616
+54,Education_Level_High School_|_Income_Category_$80K - $120K,0.00030300548478833596
+14,Marital_Status_Single,0.0002596866690983587
+68,Marital_Status_Married_|_Income_Category_$80K - $120K,0.00022412068504487078
+12,Education_Level_Unknown,0.00014977739280631094
+42,Total_Trans_Amt_|_Avg_Utilization_Ratio,0.000131362249730706
+0,Dependent_count,0.00012910377578908576
+15,Marital_Status_Unknown,0.0001166886452729453
+10,Education_Level_Post-Graduate,2.0669533054502782e-05
+11,Education_Level_Uneducated,1.629293605209838e-05
+19,Income_Category_Unknown,1.4912086633988653e-05
+63,Education_Level_Uneducated_|_Income_Category_$80K - $120K,0.0
+65,Education_Level_Unknown_|_Card_Category_Platinum,0.0
+61,Education_Level_Post-Graduate_|_Income_Category_Unknown,0.0
+60,Education_Level_Post-Graduate_|_Income_Category_$80K - $120K,0.0
+59,Education_Level_Post-Graduate_|_Income_Category_$40K - $60K,0.0
+66,Marital_Status_Married_|_Marital_Status_Single,0.0
+67,Marital_Status_Married_|_Income_Category_$40K - $60K,0.0
+69,Marital_Status_Married_|_Card_Category_Silver,0.0
+73,Marital_Status_Unknown_|_Card_Category_Platinum,0.0
+75,Income_Category_$80K - $120K_|_Income_Category_Unknown,0.0
+56,Education_Level_Post-Graduate_|_Education_Level_Uneducated,0.0
+55,Education_Level_High School_|_Card_Category_Silver,0.0
+38,Contacts_Count_12_mon_|_Education_Level_Graduate,0.0
+53,Education_Level_High School_|_Income_Category_$40K - $60K,0.0
+32,Total_Relationship_Count_|_Income_Category_Unknown,0.0
+2,Months_Inactive_12_mon,0.0
+20,Card_Category_Gold,0.0
+23,Dependent_count_|_Months_Inactive_12_mon,0.0
+24,Dependent_count_|_Gender_M,0.0
+25,Dependent_count_|_Education_Level_Doctorate,0.0
+28,Total_Relationship_Count_|_Education_Level_Graduate,0.0
+29,Total_Relationship_Count_|_Education_Level_High School,0.0
+30,Total_Relationship_Count_|_Education_Level_Uneducated,0.0
+31,Total_Relationship_Count_|_Marital_Status_Married,0.0
+33,Total_Relationship_Count_|_Card_Category_Silver,0.0
+52,Education_Level_High School_|_Marital_Status_Single,0.0
+35,Months_Inactive_12_mon_|_Education_Level_Graduate,0.0
+36,Months_Inactive_12_mon_|_Education_Level_High School,0.0
+37,Months_Inactive_12_mon_|_Marital_Status_Married,0.0
+39,Contacts_Count_12_mon_|_Education_Level_High School,0.0
+40,Contacts_Count_12_mon_|_Education_Level_Post-Graduate,0.0
+41,Contacts_Count_12_mon_|_Marital_Status_Married,0.0
+48,Education_Level_Graduate_|_Marital_Status_Single,0.0
+49,Education_Level_Graduate_|_Income_Category_$40K - $60K,0.0
+51,Education_Level_Graduate_|_Card_Category_Silver,0.0
+76,Card_Category_Gold_|_Card_Category_Platinum,0.0

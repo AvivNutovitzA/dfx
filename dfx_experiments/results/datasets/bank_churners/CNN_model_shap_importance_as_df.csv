@@ -1,0 +1,24 @@
+feature_name,shap_feature_importance
+Contacts_Count_12_mon,4.7733833404261495e-08
+Total_Relationship_Count,4.260078610687332e-08
+Avg_Utilization_Ratio,4.044381293019797e-08
+Total_Trans_Amt,4.033654162492412e-08
+Gender_M,3.711098796590928e-08
+Income_Category_$80K - $120K,3.53425899613256e-08
+Dependent_count,3.1896961724213066e-08
+Marital_Status_Single,3.0683559248862674e-08
+Months_Inactive_12_mon,2.9435900902228427e-08
+Education_Level_High School,2.852853174673935e-08
+Education_Level_Uneducated,2.84234520644479e-08
+Marital_Status_Married,2.8310781546765085e-08
+Income_Category_$40K - $60K,2.3415505846418756e-08
+Education_Level_Graduate,2.3379812759372093e-08
+Income_Category_Unknown,2.0627848615563207e-08
+Education_Level_Unknown,2.045051145140663e-08
+Income_Category_$60K - $80K,1.742242664601556e-08
+Marital_Status_Unknown,1.627466639206914e-08
+Card_Category_Silver,1.4412789267964629e-08
+Education_Level_Post-Graduate,1.0814412855800073e-08
+Education_Level_Doctorate,7.024949203110252e-09
+Card_Category_Platinum,5.0904321470443456e-09
+Card_Category_Gold,2.3267534170771337e-09

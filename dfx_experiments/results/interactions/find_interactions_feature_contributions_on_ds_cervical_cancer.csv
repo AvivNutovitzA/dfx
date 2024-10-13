@@ -1,0 +1,20 @@
+,feature_name,dfx_feature_importance
+12,Schiller,0.008707007947932685
+14,Number of sexual partners_|_Num of pregnancies,0.002921704732893734
+1,Num of pregnancies,0.002310085725264844
+0,Number of sexual partners,0.002085587386565929
+6,Hormonal Contraceptives (years),0.0017633757667450789
+7,IUD,0.0017203393508582587
+2,Smokes,0.0009601192928082183
+5,Hormonal Contraceptives,0.0008678139587702924
+11,Hinselmann,0.0007978757279922578
+3,Smokes (years),0.0007857169384145306
+16,Number of sexual partners_|_Dx:CIN,0.0007684297491869666
+9,Dx:CIN,0.0007585471720050349
+10,Dx:HPV,0.0007383619120040618
+4,Smokes (packs/year),0.0007096501083972091
+15,Number of sexual partners_|_IUD (years),0.000699282806186687
+8,IUD (years),0.0006905373172471528
+17,Number of sexual partners_|_Citology,0.0006816732061451235
+13,Citology,0.0006732439649263675
+18,Smokes_|_Hinselmann,0.0003272702054603386

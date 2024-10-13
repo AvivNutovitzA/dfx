@@ -1,0 +1,28 @@
+features,VIF
+Age,1.158849285758514
+Flight Distance,1.3682007649247132
+Inflight wifi service,2.4665519891793886
+Departure/Arrival time convenient,1.666171222241754
+Ease of Online booking,2.7102743234030133
+Gate location,1.4993850563842672
+Food and drink,2.176384999147492
+Online boarding,2.0089668496798816
+Seat comfort,2.387354753736323
+Inflight entertainment,3.875905976739854
+On-board service,1.7680058515477857
+Leg room service,1.3108421649792403
+Baggage handling,1.8931538092201177
+Checkin service,1.2287047054192213
+Inflight service,2.071179376759396
+Cleanliness,2.865008443392879
+Departure Delay in Minutes,12.9163113438061
+Arrival Delay in Minutes,12.925110221305596
+Gender_Female,inf
+Gender_Male,inf
+Customer Type_Loyal Customer,inf
+Customer Type_disloyal Customer,inf
+Type of Travel_Business travel,inf
+Type of Travel_Personal Travel,inf
+Class_Business,inf
+Class_Eco,inf
+Class_Eco Plus,inf

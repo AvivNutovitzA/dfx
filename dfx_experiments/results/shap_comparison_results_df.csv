@@ -1,0 +1,11 @@
+,LR,DTC,RF,DNN,CNN,number_of_features,top_5_features_match_proportion_max,top_5_features_match_proportion_min,top_10_features_match_proportion_max,top_10_features_match_proportion_min
+stroke,0.998,0.638,0.409,0.654,0.305,10.0,0.8,0.8,1.0,1.0
+fetal_health,0.234,0.759,0.636,0.614,0.529,16.0,0.8,0.4,0.8,0.7
+bank_churners,0.48,0.879,0.284,0.791,0.443,23.0,0.6,0.2,0.6,0.5
+hr_employee_attrition,0.661,0.16,0.436,0.201,0.211,25.0,0.6,0.2,0.5,0.5
+cervical_cancer,0.614,0.939,0.877,0.982,0.634,14.0,0.6,0.4,0.9,0.6
+mobile_price,0.943,0.985,0.984,0.992,-0.077,17.0,0.8,0.6,0.7,0.5
+churn_modelling,0.806,0.534,0.677,0.883,0.809,9.0,1.0,0.4,1.0,1.0
+company_bankruptcy_prediction,0.654,0.389,0.44,0.429,0.47,51.0,0.6,0.2,0.6,0.3
+airline_passenger_satisfaction,0.769,0.66,0.911,0.636,-0.154,16.0,0.6,0.4,0.9,0.7
+banking_marketing_targets,0.727,0.475,0.569,0.707,0.435,40.0,0.6,0.2,0.8,0.5

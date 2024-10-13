@@ -1,0 +1,24 @@
+feature_name,dfx_feature_importance
+Total_Trans_Amt,0.020190460186734094
+Total_Relationship_Count,0.008919708849022746
+Months_Inactive_12_mon,0.005549355555109077
+Education_Level_Uneducated,0.0045895625576463815
+Card_Category_Platinum,0.004553187137584924
+Education_Level_Doctorate,0.0038460587291527007
+Avg_Utilization_Ratio,0.0029328017075760985
+Income_Category_$80K - $120K,0.0014417588725522794
+Gender_M,0.0013423161486062608
+Education_Level_Post-Graduate,0.0012341061596576703
+Income_Category_$60K - $80K,0.0012243250248775823
+Card_Category_Silver,0.0012231990122601438
+Contacts_Count_12_mon,0.0011429969303726319
+Marital_Status_Unknown,0.0009395820176271297
+Education_Level_High School,0.0008960935880282454
+Income_Category_Unknown,0.0006569072252343813
+Marital_Status_Married,0.0006054149826924373
+Card_Category_Gold,0.0006006166551764
+Education_Level_Unknown,0.00027644866916413176
+Income_Category_$40K - $60K,0.0002742576245188191
+Marital_Status_Single,0.0002582632872445853
+Education_Level_Graduate,0.0
+Dependent_count,0.0

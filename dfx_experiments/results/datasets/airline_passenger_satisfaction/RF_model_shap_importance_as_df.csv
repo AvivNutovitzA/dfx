@@ -1,0 +1,17 @@
+feature_name,shap_feature_importance
+Online boarding,0.13403647634921317
+Inflight wifi service,0.12878713246176235
+Leg room service,0.05953362577431491
+Inflight entertainment,0.04831484453162132
+Departure/Arrival time convenient,0.037921653453122525
+Flight Distance,0.03509535180106505
+Seat comfort,0.029652417958353945
+On-board service,0.029443630361428056
+Ease of Online booking,0.023817990975572488
+Age,0.020191912537913862
+Inflight service,0.019379906074576854
+Baggage handling,0.01762134002781684
+Gate location,0.017038235284606174
+Checkin service,0.01633996951911948
+Food and drink,0.015374329349716772
+Cleanliness,0.01331880165726411

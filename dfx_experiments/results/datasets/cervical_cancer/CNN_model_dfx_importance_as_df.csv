@@ -1,0 +1,15 @@
+feature_name,dfx_feature_importance
+Hormonal Contraceptives,0.0023598913655102013
+Hormonal Contraceptives (years),0.001370787247529593
+Num of pregnancies,0.0013614855334520902
+Number of sexual partners,0.0010143645055368212
+Smokes (years),0.0009779003920477403
+IUD,0.0007452855610294937
+IUD (years),0.0006607204004472383
+Smokes,0.0006064258055692484
+Smokes (packs/year),0.000525596927800485
+Dx:CIN,7.715341249848574e-05
+Hinselmann,7.547127064428529e-05
+Citology,4.443824376123819e-05
+Dx:HPV,0.0
+Schiller,0.0

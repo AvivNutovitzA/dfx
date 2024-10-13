@@ -1,0 +1,17 @@
+feature_name,permutation_feature_importance
+abnormal_short_term_variability,0.17038895859473022
+prolongued_decelerations,0.11417816813048934
+histogram_mode,0.113801756587202
+accelerations,0.11003764115432872
+histogram_variance,0.09309912170639899
+uterine_contractions,0.03174404015056462
+percentage_of_time_with_abnormal_long_term_variability,0.028230865746549556
+baseline value,0.02371392722710163
+light_decelerations,0.020075282308657467
+fetal_movement,0.01191969887076536
+histogram_number_of_peaks,0.0096612296110414
+histogram_number_of_zeroes,0.007026348808030108
+mean_value_of_long_term_variability,0.003889585947302382
+severe_decelerations,0.0
+histogram_tendency,-0.0007528230865746583
+mean_value_of_short_term_variability,-0.0023839397741530766

@@ -1,0 +1,10 @@
+feature_name,dfx_feature_importance
+Age,0.030995749848208874
+CreditScore,0.01624839776023747
+Balance,0.011964514605680354
+HasCrCard,0.0038824799298387775
+Gender,0.0014820341648369413
+IsActiveMember,0.0014533184088714262
+Tenure,0.0
+NumOfProducts,0.0
+EstimatedSalary,0.0

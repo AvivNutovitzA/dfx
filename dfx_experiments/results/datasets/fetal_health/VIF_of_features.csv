@@ -1,0 +1,22 @@
+features,VIF
+baseline value,6.484259875703322
+accelerations,2.8238880157020674
+fetal_movement,1.1667616008654103
+uterine_contractions,1.303377631162431
+light_decelerations,3.4582668462761488
+severe_decelerations,1.1449492735982267
+prolongued_decelerations,2.8187551927164405
+abnormal_short_term_variability,1.9050779283241759
+mean_value_of_short_term_variability,2.981405051813553
+percentage_of_time_with_abnormal_long_term_variability,1.8390019456991307
+mean_value_of_long_term_variability,2.1362369909329804
+histogram_width,inf
+histogram_min,inf
+histogram_max,inf
+histogram_number_of_peaks,2.3807096522544176
+histogram_number_of_zeroes,1.1615201064641325
+histogram_mode,9.406052092217774
+histogram_mean,22.798222010399524
+histogram_median,29.082876280282782
+histogram_variance,2.543369243736135
+histogram_tendency,2.871727671826689

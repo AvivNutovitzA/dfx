@@ -1,0 +1,15 @@
+feature_name,dfx_feature_importance
+Schiller,0.007153005711276737
+IUD,0.0027972907895363166
+Num of pregnancies,0.0003830176871346012
+Hormonal Contraceptives (years),0.0003053715351862874
+Hinselmann,0.00026641597661827853
+Citology,0.0002455467506015524
+Number of sexual partners,0.0
+Smokes,0.0
+Smokes (years),0.0
+Smokes (packs/year),0.0
+Hormonal Contraceptives,0.0
+IUD (years),0.0
+Dx:CIN,0.0
+Dx:HPV,0.0

@@ -1,0 +1,10 @@
+feature_name,permutation_feature_importance
+Age,0.19186666666666669
+NumOfProducts,0.11661333333333332
+IsActiveMember,0.1012
+Balance,0.0968
+EstimatedSalary,0.07461333333333334
+CreditScore,0.06863999999999999
+Tenure,0.057866666666666663
+Gender,0.05296000000000001
+HasCrCard,0.02149333333333333

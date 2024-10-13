@@ -1,0 +1,17 @@
+feature_name,dfx_feature_importance
+Departure/Arrival time convenient,0.00018138433888560386
+Online boarding,0.00013925100489348705
+On-board service,0.00010747167808380085
+Ease of Online booking,0.00010439196037091358
+Age,9.517500209725985e-05
+Gate location,9.175260658968194e-05
+Flight Distance,7.143953962568029e-05
+Checkin service,6.961037970652687e-05
+Inflight service,6.634901576958923e-05
+Seat comfort,6.0481702806288615e-05
+Food and drink,5.3777323007181715e-05
+Inflight entertainment,4.552862581254627e-05
+Leg room service,4.3937475798993564e-05
+Inflight wifi service,3.5952860692165424e-05
+Baggage handling,2.8700584029790522e-05
+Cleanliness,1.2728686370372907e-05

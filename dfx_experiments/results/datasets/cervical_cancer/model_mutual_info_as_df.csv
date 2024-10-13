@@ -1,0 +1,15 @@
+feature_name,mutual_info_score
+Schiller,0.13468244881090885
+Hinselmann,0.05346920432062974
+Citology,0.026443550713746378
+Dx:HPV,0.015980340480984623
+Dx:CIN,0.013882131761793648
+Smokes,0.012465463532414178
+IUD,0.005268401937437828
+Hormonal Contraceptives,0.00214815019171799
+Hormonal Contraceptives (years),0.0014955166827135269
+Number of sexual partners,0.0
+Num of pregnancies,0.0
+Smokes (years),0.0
+Smokes (packs/year),0.0
+IUD (years),0.0

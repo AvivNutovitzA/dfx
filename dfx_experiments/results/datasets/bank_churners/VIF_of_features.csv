@@ -1,0 +1,34 @@
+features,VIF
+CLIENTNUM,114.02093294950815
+Customer_Age,86.53408500379153
+Dependent_count,4.413124087135258
+Months_on_book,57.363947185063886
+Total_Relationship_Count,8.032687457135632
+Months_Inactive_12_mon,6.380328591308374
+Contacts_Count_12_mon,6.092681331810046
+Credit_Limit,inf
+Total_Revolving_Bal,inf
+Avg_Open_To_Buy,inf
+Total_Amt_Chng_Q4_Q1,15.762503375648869
+Total_Trans_Amt,9.001858719856997
+Total_Trans_Ct,26.736316481561868
+Total_Ct_Chng_Q4_Q1,11.919942881170815
+Avg_Utilization_Ratio,5.934124096008628
+Gender_M,6.4232534063598665
+Education_Level_Doctorate,1.4181997032274956
+Education_Level_Graduate,4.0324599681233915
+Education_Level_High School,2.96034084086481
+Education_Level_Post-Graduate,1.4888489419704436
+Education_Level_Uneducated,2.4330008706892494
+Education_Level_Unknown,2.4547476545855775
+Marital_Status_Married,7.120063668681297
+Marital_Status_Single,6.107306967318623
+Marital_Status_Unknown,1.9328921882818095
+Income_Category_$40K - $60K,4.939465749111392
+Income_Category_$60K - $80K,3.1552174796294308
+Income_Category_$80K - $120K,3.1239931928321667
+Income_Category_Less than $40K,11.083384644967364
+Income_Category_Unknown,3.906258851710125
+Card_Category_Gold,1.1464921050791532
+Card_Category_Platinum,1.0292572482401827
+Card_Category_Silver,1.4672165621423372

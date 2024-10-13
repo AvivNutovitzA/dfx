@@ -1,0 +1,17 @@
+feature_name,model_feature_importance
+mean_value_of_short_term_variability,0.24084265445723851
+prolongued_decelerations,0.15871332130077548
+percentage_of_time_with_abnormal_long_term_variability,0.13319207456042878
+abnormal_short_term_variability,0.11945544722464242
+histogram_mode,0.08264230897301209
+baseline value,0.05632275872706712
+uterine_contractions,0.05155488064219895
+accelerations,0.0490601574335329
+mean_value_of_long_term_variability,0.04105437633359421
+histogram_number_of_peaks,0.02944545386280257
+histogram_variance,0.014358473969226116
+fetal_movement,0.009242795789009748
+light_decelerations,0.00798276496277215
+histogram_tendency,0.005064328684245109
+histogram_number_of_zeroes,0.0010682030794538571
+severe_decelerations,0.0

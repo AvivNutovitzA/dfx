@@ -1,0 +1,52 @@
+feature_name,random_feature_importance
+ Operating Expense Rate,0.3584657285442726
+ Research and development expense rate,0.11586905952512971
+ Cash flow rate,0.8631034258755935
+ Interest-bearing debt interest rate,0.6232981268275579
+ Tax rate (A),0.3308980248526492
+ Cash Flow Per Share,0.06355835028602363
+ Realized Sales Gross Profit Growth Rate,0.3109823217156622
+ Continuous Net Profit Growth Rate,0.32518332202674705
+ Total Asset Growth Rate,0.7296061783380641
+ Total Asset Return Growth Rate Ratio,0.6375574713552131
+ Cash Reinvestment %,0.8872127425763265
+ Current Ratio,0.4722149251619493
+ Quick Ratio,0.1195942459383017
+ Interest Expense Ratio,0.713244787222995
+ Total debt/Total net worth,0.7607850486168974
+ Long-term fund suitability ratio (A),0.5612771975694962
+ Contingent liabilities/Net worth,0.770967179954561
+ Total Asset Turnover,0.49379559636439074
+ Accounts Receivable Turnover,0.5227328293819941
+ Average Collection Days,0.42754101835854963
+ Inventory Turnover Rate (times),0.02541912674409519
+ Fixed Assets Turnover Frequency,0.10789142699330445
+ Net Worth Turnover Rate (times),0.03142918568673425
+ Operating profit per person,0.6364104112637804
+ Allocation rate per person,0.3143559810763267
+ Quick Assets/Total Assets,0.5085706911647028
+ Cash/Total Assets,0.907566473926093
+ Cash/Current Liability,0.24929222914887494
+ Operating Funds to Liability,0.41038292303562973
+ Inventory/Working Capital,0.7555511385430487
+ Inventory/Current Liability,0.22879816549162246
+ Long-term Liability to Current Assets,0.07697990982879299
+ Retained Earnings to Total Assets,0.289751452913768
+ Total income/Total expense,0.16122128725400442
+ Total expense/Assets,0.9296976523425731
+ Current Asset Turnover Rate,0.808120379564417
+ Quick Asset Turnover Rate,0.6334037565104235
+ Cash Turnover Rate,0.8714605901877177
+ Fixed Assets to Assets,0.8036720768991145
+ Cash Flow to Total Assets,0.18657005888603584
+ Cash Flow to Liability,0.8925589984899778
+ CFO to Assets,0.5393422419156507
+ Cash Flow to Equity,0.8074401551640625
+ Current Liability to Current Assets,0.8960912999234932
+ Liability-Assets Flag,0.3180034749718639
+ Total assets to GNP price,0.11005192452767676
+ No-credit Interval,0.22793516254194168
+ Degree of Financial Leverage (DFL),0.4271077886262563
+ Interest Coverage Ratio (Interest expense to EBIT),0.8180147659224931
+ Net Income Flag,0.8607305832563434
+ Equity to Liability,0.006952130531190703

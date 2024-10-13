@@ -1,0 +1,11 @@
+feature_name,model_feature_importance
+gender,-1
+age,-1
+hypertension,-1
+heart_disease,-1
+ever_married,-1
+work_type,-1
+Residence_type,-1
+avg_glucose_level,-1
+bmi,-1
+smoking_status,-1

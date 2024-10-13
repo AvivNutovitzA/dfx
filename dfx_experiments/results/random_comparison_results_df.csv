@@ -1,0 +1,11 @@
+,LR,DTC,RF,DNN,CNN,number_of_features
+stroke,0.413,-0.275,0.56,0.234,-0.058,10.0
+fetal_health,-0.001,0.018,0.255,-0.432,-0.292,16.0
+bank_churners,0.149,-0.413,0.196,0.482,0.295,23.0
+hr_employee_attrition,-0.073,-0.059,0.365,-0.034,-0.274,25.0
+cervical_cancer,0.092,0.265,0.266,-0.296,0.6,14.0
+mobile_price,0.254,0.093,0.352,-0.044,0.255,17.0
+churn_modelling,0.418,-0.017,0.131,0.097,-0.318,9.0
+company_bankruptcy_prediction,-0.073,0.066,0.026,-0.056,-0.082,51.0
+airline_passenger_satisfaction,-0.3,0.037,0.25,0.069,-0.0,16.0
+banking_marketing_targets,-0.072,-0.385,0.037,-0.108,-0.035,40.0

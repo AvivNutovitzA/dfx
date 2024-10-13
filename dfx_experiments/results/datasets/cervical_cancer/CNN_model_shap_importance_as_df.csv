@@ -1,0 +1,15 @@
+feature_name,shap_feature_importance
+Num of pregnancies,1.028346563784929e-08
+Hormonal Contraceptives (years),9.276275867188336e-09
+Number of sexual partners,5.018087711657335e-09
+Hormonal Contraceptives,4.4912327807282965e-09
+IUD,2.83870335983383e-09
+Citology,2.6242007938496974e-09
+IUD (years),2.322832275840201e-09
+Schiller,2.219019973371145e-09
+Dx:CIN,2.1297667561718294e-09
+Smokes,2.034375480267068e-09
+Smokes (years),1.7204418038255993e-09
+Smokes (packs/year),1.3617001724964022e-09
+Hinselmann,6.352742817814071e-10
+Dx:HPV,3.568888554373476e-10

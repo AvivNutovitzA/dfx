@@ -1,0 +1,36 @@
+features,VIF
+Age,26.646145314033557
+Number of sexual partners,3.2767931261598777
+First sexual intercourse,25.309013546894832
+Num of pregnancies,6.014534251423517
+Smokes,2.495127587614608
+Smokes (years),4.10998708573989
+Smokes (packs/year),2.92212750822829
+Hormonal Contraceptives,4.0424324388242505
+Hormonal Contraceptives (years),2.1213946883395134
+IUD,2.6515357982233643
+IUD (years),2.385892073947195
+STDs,15.428155304124491
+STDs (number),inf
+STDs:condylomatosis,inf
+STDs:cervical condylomatosis,
+STDs:vaginal condylomatosis,inf
+STDs:vulvo-perineal condylomatosis,inf
+STDs:syphilis,inf
+STDs:pelvic inflammatory disease,inf
+STDs:genital herpes,inf
+STDs:molluscum contagiosum,inf
+STDs:AIDS,
+STDs:HIV,inf
+STDs:Hepatitis B,inf
+STDs:HPV,inf
+STDs: Number of diagnosis,11.12776999713698
+STDs: Time since first diagnosis,104.1985564099611
+STDs: Time since last diagnosis,104.88757593476892
+Dx:Cancer,16.31024078576715
+Dx:CIN,6.797536433846245
+Dx:HPV,7.075478585707001
+Dx,13.88562848538092
+Hinselmann,1.9144422816823554
+Schiller,2.3199579544277147
+Citology,1.328875847144631

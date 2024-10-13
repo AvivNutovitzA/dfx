@@ -1,0 +1,52 @@
+feature_name,shap_feature_importance
+ Operating Expense Rate,0.0031556692129151836
+ Cash/Current Liability,0.0024353954425764906
+ Inventory Turnover Rate (times),0.0023770205936218093
+ Fixed Assets to Assets,0.0023297299248935593
+ Quick Assets/Total Assets,0.002247932622697403
+ Cash Turnover Rate,0.001797874182074418
+ Current Asset Turnover Rate,0.001438678624885314
+ Total Asset Turnover,0.001359082647103651
+ Cash/Total Assets,0.001250492009078442
+ Total assets to GNP price,0.0012280640953718023
+ Quick Asset Turnover Rate,0.0012177512741667318
+ Total Asset Growth Rate,0.0010058535906290085
+ Quick Ratio,0.0009480075387337498
+ Equity to Liability,0.0008487459937846653
+ Research and development expense rate,0.0008133764129296635
+ Current Liability to Current Assets,0.0007728342800599131
+ Retained Earnings to Total Assets,0.0006940466645152944
+ Interest-bearing debt interest rate,0.0005959484607515506
+ Total expense/Assets,0.0005957454213679247
+ Net Worth Turnover Rate (times),0.000577907748560078
+ CFO to Assets,0.0005698685912394418
+ Tax rate (A),0.00048563869514963375
+ Operating profit per person,0.0004732109128899406
+ Total debt/Total net worth,0.00040472333416423004
+ Fixed Assets Turnover Frequency,0.00040039701880990197
+ Long-term Liability to Current Assets,0.00036242650150179376
+ Inventory/Current Liability,0.0002469125879138979
+ Cash Flow Per Share,0.00024663094968667366
+ Accounts Receivable Turnover,0.0001519345712354302
+ Cash Flow to Equity,0.00012162887180814512
+ Average Collection Days,0.00010470920885501804
+ Cash Flow to Total Assets,0.00010075605959284579
+ Allocation rate per person,9.741276326538897e-05
+ Long-term fund suitability ratio (A),8.995407982427123e-05
+ Cash Flow to Liability,7.147771934019381e-05
+ Operating Funds to Liability,6.36401335551895e-05
+ Cash flow rate,6.275038841955412e-05
+ Interest Coverage Ratio (Interest expense to EBIT),5.515161833682586e-05
+ Current Ratio,4.591522474213559e-05
+ Liability-Assets Flag,4.5379578505612785e-05
+ Total Asset Return Growth Rate Ratio,4.340101664293657e-05
+ Cash Reinvestment %,3.969549594157658e-05
+ Contingent liabilities/Net worth,3.162711943001349e-05
+ Inventory/Working Capital,2.004165367688775e-05
+ Total income/Total expense,1.9235975833741674e-05
+ Interest Expense Ratio,1.4837023668032976e-05
+ Degree of Financial Leverage (DFL),9.957114466119536e-06
+ Realized Sales Gross Profit Growth Rate,8.981366575446587e-06
+ No-credit Interval,8.919425500512907e-06
+ Continuous Net Profit Growth Rate,8.333073351934828e-06
+ Net Income Flag,0.0
