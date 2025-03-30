@@ -23,6 +23,7 @@ class DesignCreator:
             self.design_df.columns = self.design_df.columns.astype(int)
         else:
             self.create_design_from_feature_matrix(feature_matrix)
+        self.base_n = -1
 
     def get_lists_of_design_from_df_for_tabluar_data(self, feature_means):
         lists_of_designs = []
@@ -59,8 +60,10 @@ class DesignCreator:
     def _create_base_design(self):
         # self.design_df = pd.DataFrame.from_records(base[0].apply(lambda x: self.clean_row(x)))
         self.design_df = get_base()
+        self.base_n = self.design_df.shape[1]
 
     def create_design_from_feature_matrix(self, feature_matrix):
+        self.n_features = feature_matrix.shape[1]
         self._create_base_design()
         self._doubling(feature_matrix)
         self._select_matrix_columns(feature_matrix)
@@ -79,7 +82,11 @@ class DesignCreator:
     def _select_matrix_columns(self, feature_matrix):
         np.random.seed(42)
         self.design_df = self.design_df[[i for i in list(self.design_df.columns) if int(i) > 0]]
-        selected_columns = np.random.choice(list(self.design_df.columns), size=feature_matrix.shape[1])
+        if self.n_features < self.base_n and self.base_n > -1:
+            selected_columns = [col for col in self.design_df.columns if int(col) < self.n_features + 1]
+        else:
+            selected_columns = np.random.choice(
+                list(self.design_df.columns), size=feature_matrix.shape[1], replace=False)
         self.design_df = self.design_df[selected_columns]
         self.design_df.columns = list(range(0, self.design_df.shape[1]))
         selected_columns = [c1 for c1, p1 in
